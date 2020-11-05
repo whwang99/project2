@@ -17,8 +17,9 @@ h2 {
 nav {
   font-family: 'Open Sans', sans-serif;
   font-style: italic;
-    font-size: 18px;
-    line-height: 5px;
+    font-size: 16px;
+    line-height: 10px;
+    word-spacing: 5px;
     color: gray
 }
 img {
@@ -32,10 +33,12 @@ img {
     position: absolute;
   }
 
-div2 {
-  width: 350px;
+p {
+  width: 400px;
+  padding-top: 35px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 12px;
+  font-size: 18px;
+  line-height: 3px;
   color: gray;
 
   text-align: left;
