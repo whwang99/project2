@@ -69,15 +69,12 @@ h3 { text-align: left;
   color:black
 }
 
-  a.nav:link, a.nav:visited {
-    background-color:yellow;
-    color:black;
-    padding: 10px 50px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  }
-  
-  a.nav:hover, a:active {
-    background-color:yellow;
-  }
+a:link, a:visited {
+  background-color:yellow;
+  color: black;
+  padding: 12px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
