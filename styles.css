@@ -1,7 +1,6 @@
-/* qq why is the background color 
-and the border radius not working???*/
+/* qq why is the background color not working???*/
 body {
-  width: 800px;
+  width: 850px;
   height: 308px;
   padding-left: 35px;
   border-radius: 25px;
@@ -16,7 +15,7 @@ h2 {
   text-transform: uppercase;
 
   line-height: 5px;
-  color: gray;
+  color: white;
 }
 nav {
   font-family: "Open Sans", sans-serif;
@@ -27,7 +26,7 @@ nav {
   color: gray;
 }
 a {
-  color: gray;
+  color: rgb(75, 75, 75);
 }
 a:link {
   text-decoration: none;
@@ -61,7 +60,7 @@ p {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 3px;
-  color: gray;
+  color: rgb(154, 154, 154);
 
   text-align: left;
   line-height: 12px;
@@ -75,12 +74,19 @@ h3 {
   font-family: "Playfair Display SC", serif;
   color: black;
 }
-
-a:link,
-a:visited {
+a:link {
   background-color: rgb(258, 201, 54);
   color: black;
   padding: 5px 65px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:visited {
+  background-color: rgb(258, 201, 54);
+  color: black;
+  padding: 10px 65px;
   border-radius: 10px;
   text-align: center;
   text-decoration: none;
