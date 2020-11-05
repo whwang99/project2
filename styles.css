@@ -2,10 +2,11 @@ body {
     width: 760px;
     height: 308px;
     padding-left: 35px;
-    border: 10px solid black;
-    background-color;
+    border radius: 25px;
+    border: 15px solid black;
+    background:;
+}
   
-  }
 h2 {
   font-family: 'Playfair Display SC', serif;
     font-size: 42px;
@@ -70,9 +71,10 @@ h3 { text-align: left;
 }
 
 a:link, a:visited {
-  background-color:yellow;
+  background-color: rgb(258,201,54);
   color: black;
-  padding: 12px 35px;
+  padding: 5px 65px;
+  border-radius: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
