@@ -2,13 +2,16 @@ body {
     width: 800px;
     height: 230px;
     padding: 20px;
+    background-color: gray;
     border: 1px solid black;
+  
   }
 h2 {
-
+    font-size: 42px;
+    
 }
 nav {
-
+    font-size: 18px;
 }
 img {
     margin-left: 309px;
