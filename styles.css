@@ -30,7 +30,10 @@ a:hover {
 .divider{
   font-style: normal;
 }
-/*gradient???????*/
+
+.time {
+  color: rgb(75, 75, 75);
+}
 img {
   float: right;
 }
