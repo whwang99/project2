@@ -1,8 +1,7 @@
 body {
-    width: 800px;
+    width: 750px;
     height: 230px;
     padding: 0px;
-    background-color: gray;
     border: 1px solid black;
   
   }
@@ -10,10 +9,12 @@ h2 {
     font-size: 42px;
     text-transform: uppercase;
     line-height: 5px;
+    color: gray
 }
 nav {
     font-size: 18px;
     line-height: 5px;
+    color: gray
 }
 img {
   float: right;
@@ -21,6 +22,12 @@ img {
   .container {
     position: relative;
     overflow: auto;
+  }
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
   }
 
 div {
@@ -31,11 +38,13 @@ h3 {
     width: 350px;
     height: 60px;
     padding: 5px;
-    border: 1px solid black;
+    border: 1px solid grayblack;
 
     text-align: center;
     line-height: 55px;
     text-transform: uppercase;
     letter-spacing: 7px;
+
+    color: gray
 }
 
