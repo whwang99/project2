@@ -94,4 +94,6 @@ a:visited {
 }
 a:hover {
   opacity: 80%;
+  color: black
 }
+/* how to Keep the color black?*/
