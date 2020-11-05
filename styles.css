@@ -1,7 +1,7 @@
 body {
     width: 800px;
     height: 230px;
-    padding: 20px;
+    padding: 0px;
     background-color: gray;
     border: 1px solid black;
   
@@ -16,8 +16,7 @@ nav {
     line-height: 5px;
 }
 img {
-    margin-left: 309px;
-    margin-bottom: 
+  float: right;
   }
 }
 div {
