@@ -8,10 +8,12 @@ body {
   }
 h2 {
     font-size: 42px;
-    
+    text-transform: uppercase;
+    line-height: 5px;
 }
 nav {
     font-size: 18px;
+    line-height: 5px;
 }
 img {
     margin-left: 309px;
@@ -22,12 +24,14 @@ div {
 
 }
 h3 {
-    width: 250px;
+    width: 350px;
     height: 60px;
     padding: 5px;
     border: 1px solid black;
 
     text-align: center;
     line-height: 55px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
 }
 
