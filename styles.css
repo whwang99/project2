@@ -20,8 +20,9 @@ img {
   }
   .container {
     position: relative;
+    overflow: auto;
   }
-  
+
 div {
   
 }
