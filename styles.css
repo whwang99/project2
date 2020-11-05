@@ -22,6 +22,21 @@ nav {
     word-spacing: 5px;
     color: gray
 }
+a{
+  color: gray
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+b{ 
+  font-style: normal;
+}
 img {
   float: right;
   }
@@ -57,6 +72,18 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 7px;
     font-family: 'Playfair Display SC', serif;
-    color: gray
+    color:black
+
+    a:link, a:visited {
+      background-color: #f44336;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      background-color: red;
 }
 
