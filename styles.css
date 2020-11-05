@@ -1,3 +1,5 @@
+/* qq why is the background color 
+and the border radius not working???*/
 body {
     width: 760px;
     height: 308px;
@@ -42,7 +44,7 @@ b{
 img {
   float: right;
   }
-  .container {
+  .pictureposition {
     position: relative;
     overflow: auto;
   }
@@ -50,6 +52,7 @@ img {
     position: absolute;
   }
 
+  /* why is line height not working??*/
 p {
   width: 400px;
   padding-top: 35px;
@@ -61,7 +64,7 @@ p {
   text-align: left;
   line-height: 12px;
 }
-
+/* how to do class for links???*/
 h3 { text-align: left;
   line-height: 55px;
   text-transform: uppercase;
@@ -79,4 +82,6 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-
+a:hover{
+  opacity: 80%;
+}
