@@ -1,11 +1,12 @@
 body {
-    width: 750px;
-    height: 230px;
+    width: 760bpx;
+    height: 308px;
     padding: 0px;
     border: 1px solid black;
   
   }
 h2 {
+    font-family: 'Playfair Display', serif;
     font-size: 42px;
     text-transform: uppercase;
     line-height: 5px;
@@ -38,13 +39,13 @@ h3 {
     width: 350px;
     height: 60px;
     padding: 5px;
-    border: 1px solid grayblack;
+    border: 1px solid gray;
 
     text-align: center;
     line-height: 55px;
     text-transform: uppercase;
     letter-spacing: 7px;
-
+    font-family: 'Playfair Display', serif;
     color: gray
 }
 
