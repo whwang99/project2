@@ -18,10 +18,14 @@ nav {
 img {
   float: right;
   }
-}
+  .container {
+    position: relative;
+  }
+  
 div {
-
+  
 }
+
 h3 {
     width: 350px;
     height: 60px;
