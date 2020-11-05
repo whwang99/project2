@@ -1,6 +1,26 @@
 body {
-    width: 270px;
-    height: 100px;
-    padding: 50px;
-    border: 1px solid red;
+    width: 800px;
+    height: 230px;
+    padding: 20px;
+    border: 1px solid black;
   }
+h2 {
+
+}
+nav {
+
+}
+img {
+
+}
+div {
+
+}
+h3 {
+    width: 250px;
+    height: 60px;
+    padding: 5px;
+    border: 1px solid black;
+
+    
+}
