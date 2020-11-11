@@ -1,0 +1,91 @@
+h2 {
+  font-family: "Playfair Display SC", serif;
+  font-size: 42px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  line-height: 5px;
+  color: white;
+}
+nav {
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 10px;
+  word-spacing: 5px;
+  color: gray;
+}
+a {
+  color: rgb(75, 75, 75);
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.divider{
+  font-style: normal;
+}
+
+.time {
+  color: rgb(75, 75, 75);
+}
+img {
+  border-radius: 25px;
+  float: right;
+}
+.card {
+  position: relative;
+  width: 740px;
+  height: 308px;
+  padding-left: 35px;
+  border-radius: 25px;
+  background-color: black;
+}
+.text {
+  position: absolute;
+  background-image: linear-gradient(to right, black, transparent);
+}
+p {
+  width: 350px;
+  padding-top: 35px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15.5px;
+  line-height: 1;
+  color: rgb(154, 154, 154);
+
+  text-align: left;
+}
+h3 {
+  text-align: left;
+  line-height: 55px;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-family: "Playfair Display SC", serif;
+  color: black;
+}
+.button:link {
+  background-color: rgb(258, 201, 54);
+  color: black;
+  padding: 5px 65px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.button:visited {
+  background-color: rgb(258, 201, 54);
+  color: black;
+  padding: 10px 65px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.button:hover {
+  background-color: rgba(258, 201, 54, 80%);
+}
