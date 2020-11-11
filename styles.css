@@ -48,6 +48,7 @@ img {
 }
 .text {
   position: absolute;
+  background-image: linear-gradient(to right, black, transparent);
 }
 p {
   width: 350px;
